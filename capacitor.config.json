@@ -1,0 +1,8 @@
+{
+  "appId": "com.aarindam.photography",
+  "appName": "Aarindam Photography",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
